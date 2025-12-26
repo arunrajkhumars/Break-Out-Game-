@@ -1,0 +1,17 @@
+# Hand Breakout Deluxe - Requirements.txt
+# Core Game Engine
+pygame>=2.5.0
+
+# Computer Vision and Hand Tracking
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Additional Dependencies (usually included with main packages)
+# numpy>=1.21.0  # Included with opencv-python
+# protobuf>=3.20.0  # Included with mediapipe
+# absl-py>=1.0.0  # Included with mediapipe
+
+# Optional: For enhanced performance
+# numpy>=1.24.0
+# protobuf>=4.21.0
+
