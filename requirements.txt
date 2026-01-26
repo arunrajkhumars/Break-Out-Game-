@@ -14,4 +14,3 @@ mediapipe>=0.10.0
 # Optional: For enhanced performance
 # numpy>=1.24.0
 # protobuf>=4.21.0
-
